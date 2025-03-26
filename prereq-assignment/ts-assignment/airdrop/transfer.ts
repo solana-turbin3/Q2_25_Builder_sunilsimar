@@ -5,7 +5,7 @@ import wallet from "./dev-wallet.json"
 const from = Keypair.fromSecretKey(new Uint8Array(wallet));
 
 //Define our Turbin3 public key
-const to = new PublicKey("GLtaTaYiTQrgz411iPJD79rsoee59HhEy18rtRdrhEUJ");
+const to = new PublicKey("8ReQ161Yuog9ZYyBmbi81ZpcVoVbeeyoKU3AiphC1t7R");
 
 //Create a Solana devent connection 
 const connection = new Connection("https://api.devnet.solana.com");
