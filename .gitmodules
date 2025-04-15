@@ -6,4 +6,4 @@
 	url = https://github.com/sunilsimar/escrow.git
 [submodule "amm"]
 	path = amm
-	url = ./amm
+	url = https://github.com/sunilsimar/amm.git
